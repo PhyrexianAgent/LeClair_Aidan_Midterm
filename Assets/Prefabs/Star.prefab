@@ -165,4 +165,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   persistTime: 4
-  startYSpeed: 10
+  startYSpeed: 15
+  maxXRandSpeed: 5
