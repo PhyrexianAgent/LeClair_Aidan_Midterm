@@ -31,6 +31,5 @@ public class CameraController : MonoBehaviour
     {
         Vector2 targetPos = playerTrans.position;
         transform.position = Vector3.Lerp(transform.position, targetPos, LERP_SPEED) + new Vector3(0, 0, -3);
-        
     }
 }
